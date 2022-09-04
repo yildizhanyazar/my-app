@@ -10,4 +10,4 @@
 
 ---
 
-![image](../my-app/src/assets/noName.png)
+![Wallpaper](./src/assets/noName.png)
